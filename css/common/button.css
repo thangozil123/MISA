@@ -1,0 +1,25 @@
+.ms-btn {
+    height: 40px;
+    border-radius: 4px;
+    background-color: #019160;
+    padding: 0 24px;
+    color: #fff;
+    border: none;
+    min-width: 100px;
+}
+
+.ms-btn:hover {
+    background-color: #2fbe8e;
+    
+}
+.ms-btn:active {
+    background-color: #01B075;
+}
+
+.ms-btn-icon {
+    background-image: url(../../asset/icon/add.png);
+    background-repeat: no-repeat;
+    background-size: 16px 16px;
+    background-position: 16px center;
+    padding-left: 40px;
+}
